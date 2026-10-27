@@ -1,0 +1,12 @@
+{
+  "name": "opencode-plugin-ask",
+  "version": "0.1.0",
+  "description": "OpenCode plugin: /ask <claude|agy> <question> — get another agent's opinion on the record, without leaving your session",
+  "type": "module",
+  "main": "index.ts",
+  "keywords": ["opencode", "opencode-plugin", "ask", "second-opinion"],
+  "license": "MIT",
+  "dependencies": {
+    "@opencode/plugin": "latest"
+  }
+}
